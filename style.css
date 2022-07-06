@@ -123,3 +123,26 @@ button {
 .donataion_area input:focus {
     outline: none;
 }
+
+/* Donation planning section */
+.ourplan{
+    display: flex;
+}
+.ourplan .plan_item{
+    width: 20%;
+    margin-top: 100px;
+    margin-left: 4%;
+    margin-right: 2%;
+    padding: 40px;
+    border-radius: 5px;
+}
+.first{
+    background: rgba(79, 157, 166, 0.1);
+}
+.second{
+    background: rgba(255, 89, 89, 0.1);
+
+}
+.third{
+    background-color: #1e1e1e1c;
+}
