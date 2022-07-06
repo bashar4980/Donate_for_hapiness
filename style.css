@@ -146,3 +146,39 @@ button {
 .third{
     background-color: #1e1e1e1c;
 }
+
+.subscription_form{
+    width: 50%;
+    background-color: #fcdfdf !important; 
+    margin: 50px auto;
+    padding: 50px;
+   
+}
+.subscription_form input{
+    width: 70%;
+    padding: 14px 14px;
+    margin-right: -5px;
+    font-size: 18px;
+}
+.subscription_form button{
+    border-radius: 0px;
+}
+.subscription_form input:focus{
+    outline: none;
+}
+.foter{
+    margin-bottom: 0px;
+    padding: 20px;
+    background-color: #121212;
+    text-align: center;
+    color: #fff;
+}
+.foter h3{
+    color: rgba(255, 89, 89, 1);
+
+    font-family: 'Lobster';
+    font-size: 36px;
+
+
+
+}
