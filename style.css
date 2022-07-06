@@ -40,8 +40,9 @@ h2 {
     font-weight: 700;
     text-align : center;
 
-
-
+}
+h3{
+    font-size: 30px;
 }
 
 button {
@@ -146,7 +147,7 @@ button {
 .third{
     background-color: #1e1e1e1c;
 }
-
+/* Subscription sectio */
 .subscription_form{
     width: 50%;
     background-color: #fcdfdf !important; 
@@ -181,4 +182,34 @@ button {
 
 
 
+}
+/* help us section */
+.help_us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    background-color: #FCF2E8;
+    padding: 40px 0px;
+}
+
+.help_us div{
+    width: 40%;
+    margin: 0px 5%;
+}
+.survive{
+    display: flex;
+    align-items: center;
+    
+}
+.survive div{
+    width: 40%;
+    margin-left: 5%;
+}
+.survive img{
+    width: 100%;
+    border-radius: 5px;
+}
+.survive h3{
+    font-size: 40px;
 }
